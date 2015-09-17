@@ -1,6 +1,6 @@
-## Round 1: eNdLeSs SuMmEr
+# eNdLeSs SuMmEr
 
-You've just moved to the valley to join hot surf-tech startup 'SurfSpot'. Your new CEO wants all promotional copy to go out in 'Wave Case', a formatting convention that alternates lowercase and uppercase lettering. Your task is to write a method that will automate this format.
+You've just moved to the valley to join hot "uber-for-surfers" startup "SurfSpot". Your new CEO wants all promotional copy to go out in 'Wave Case', a formatting convention that alternates lowercase and uppercase lettering. Your task is to write a method that will automate this format.
 
 Your method should take a string and return a string in surfcase. To take a simple example:
 
